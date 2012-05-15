@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechNetProductKeyManager", "TechNetProductKeyManager\TechNetProductKeyManager.csproj", "{53948F24-7631-4785-9D1A-9EFA1F3976D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53948F24-7631-4785-9D1A-9EFA1F3976D7}.Debug|x64.ActiveCfg = Debug|x64
+		{53948F24-7631-4785-9D1A-9EFA1F3976D7}.Debug|x64.Build.0 = Debug|x64
+		{53948F24-7631-4785-9D1A-9EFA1F3976D7}.Release|x64.ActiveCfg = Release|x64
+		{53948F24-7631-4785-9D1A-9EFA1F3976D7}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
